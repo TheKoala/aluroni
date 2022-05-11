@@ -1,5 +1,5 @@
 # aluroni
-Projeto doas cursos de React: lidando com arquivos estáticos e React: conhecendo a biblioteca React Router
+Projeto dos cursos de React: lidando com arquivos estáticos e React: conhecendo a biblioteca React Router
 
 # Getting Started with Create React App
 
